@@ -1,2 +1,3 @@
 .DS_Store
 *.yaml
+!Lab/lab3-release-CN/part2/environment.yaml
